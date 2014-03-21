@@ -1,0 +1,12 @@
+ASSUMPTIONS- every doctor is qualified to perform surgery
+2.a Doctor works only one shift in the hospital in a day.
+3.Doctor is available for all days of week
+4.Time is taken as a String.
+5.Appointment time is not taken by patient's choice
+6.While giving appointments admin checks the given date's appointments for that particular doctor and enters the time accordiingly i.e. appointment time is not generated automatically
+7.After taking appointment,it is assumed that patient automatically goes to doctor on the appointment date.Therefore the method to examine patient is called jsut after taking appointment.
+8.Whatever is prescribed to patient by the doctor is entered correctly in the system by the admin
+9.It is assumed that the patient goes for test when prescribed to do so.
+10.Doctor which advices the patient to admit is considered incharge of the patient throught when he is admitted.
+11.After the patient's treatment is over,if the patient arrives next time in the hospital he will be registered again and assigned a new patient no for another treatment.
+12.Doctor takes his fee separately.That fee is not kept in records by hospital.
